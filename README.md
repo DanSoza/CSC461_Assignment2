@@ -8,6 +8,7 @@ Danny Soza
 
 This projects main purpose is to educate those who experience (users), about the history of significant performance cars. This museum allows users to navigate the room and learn a little about each vehicle.
 
+Learn about some of the most significant performance cars!!
 ## Exhibitions
 
 The museum contains five car exhibitions:
@@ -62,3 +63,7 @@ NSX:
 ## Notes
 
 This repo was created for CSC 461/592 Assignment 2: VR Museum.
+
+All models were retreived from SkectchFab.
+All sounds were retreived from pixabay.
+This is for educational purposes only!
