@@ -2,7 +2,7 @@
 
 ## Team
 
-Dan Soza
+Danny Soza
 
 ## VR Car Museum
 
